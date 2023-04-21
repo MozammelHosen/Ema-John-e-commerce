@@ -1,0 +1,7 @@
+.form-container {
+    height: 500px;
+    width: 600px;
+    margin: 20px auto;
+    box-flex-group: #7fd4cf;
+    box-shadow: 2px 2px 2px 2px;
+}
